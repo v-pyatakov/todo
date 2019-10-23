@@ -1,0 +1,19 @@
+{
+  "todo": [
+    {
+      "done": true,
+      "task": "Сделать todoList",
+      "id": 1
+    },
+    {
+      "done": false,
+      "task": "Сверстать макет psd",
+      "id": 2
+    },
+    {
+      "done": false,
+      "task": "Сделать сheatsheet на VueJs",
+      "id": 3
+    }
+  ]
+}
